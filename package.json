@@ -1,0 +1,9 @@
+{
+  "name": "yalies-petrol-root",
+  "version": "1.0.0",
+  "description": "Root proxy for easy Render deployment",
+  "scripts": {
+    "build": "npm install --prefix backend",
+    "start": "npm start --prefix backend"
+  }
+}
